@@ -38,7 +38,7 @@
     "react-native-segmented-control-tab": "^3.4.1",
     "react-native-svg": "12.1.0",
     "react-native-tab-view": "^2.13.0",
-    "react-native-webview": "10.7.0",
+    "react-native-webview": "11.0.0",
     "react-navigation": "^4.1.1",
     "react-redux": "^7.2.0",
     "redux": "^4.0.5"
